@@ -1,0 +1,35 @@
+# Compiler files
+cache/
+out/
+
+# Commonly ignored directories
+.logs/
+.ignore/
+
+# Ignores development broadcast logs
+!/broadcast
+/broadcast/*/31337/
+/broadcast/**/dry-run/
+
+# Docs
+docs/
+
+# Dotenv file
+.env
+.env.*
+!.env.example
+
+# Local network/proxy diagnostics generated during deployment troubleshooting.
+# Do not publish these with the hackathon submission.
+cast_err.txt
+cast_out.txt
+cast_proxy_test.ps1
+clash_api.ps1
+find_conf.ps1
+net_diag.ps1
+port_scan.ps1
+proxy_test.ps1
+rpc_proxy.ps1
+rpc_test.ps1
+rpc_test2.ps1
+socks_bridge.py
