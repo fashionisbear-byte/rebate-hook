@@ -72,7 +72,7 @@ No rebate in this run. `ExecutionTick = -199`, `SettleTick = -199`, vault balanc
 
 ## Repository URL
 
-TODO: paste public GitHub URL.
+https://github.com/fashionisbear-byte/rebate-hook
 
 ## Demo Video URL
 

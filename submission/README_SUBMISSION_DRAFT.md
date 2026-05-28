@@ -78,7 +78,7 @@ Most swap protection systems are off-chain promises, fee-adjustment variants, po
 
 ## Repository URL
 
-Note: add public GitHub repository URL.
+https://github.com/fashionisbear-byte/rebate-hook
 
 ## Demo Video URL
 
